@@ -1,0 +1,28 @@
+name: Amanda McAlister
+favicon: null
+layout_spectrum: 0.057084681233391166
+typography_spectrum: 0.10698966355994344
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8499452881515026
+  lightness: 0.07606343063525856
+  saturation: 0.895079949637875
+  rhythmicContrast: 0.5495635538827628
+purpose: []
